@@ -1,0 +1,2 @@
+# When you lose the game there doesn't seem to be a clean exti even though sys.exit(0) should lead to a clean exit.
+# There is no scripts part
